@@ -1,15 +1,15 @@
 # Ingredients
 
-Coarse salt = Per Taste      
+Coarse Salt = Per Taste      
 
 Pepper =  Per Taste         
 
-Garlic powder =  Per Taste 
+Garlic Powder =  Per Taste 
 
-Chopped cilantro = Per Taste
+Chopped Cilantro = Per Taste
 
-Grated parmesan = Per Taste
+Grated Parmesan = Per Taste
 
-Russet potatoes = 4
+Russet Potatoes = 4 and large
 
 Olive Oil = Enough to coat the potatoes for frying
